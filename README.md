@@ -1,2 +1,1 @@
-# bookish-garbanzo
-gatsbyjs blog for showcase in tailwindcss
+## Build App here..
